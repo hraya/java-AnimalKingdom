@@ -34,7 +34,7 @@ public class Mammals extends AbstractAnimal
     @Override
     public String howMove()
     {
-        return "walk";
+        return "Walk";
     }
 
     @Override
